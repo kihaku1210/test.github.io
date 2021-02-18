@@ -1,0 +1,12 @@
+  h1 {
+    color: #02cc00; /*comments*/
+    font-size: 50px;
+    height: 50px;
+    background-color: rgb(219, 172, 205);
+  }
+  p {
+    color: brown;
+    font-size: 20px;
+    height: 20px;
+    background-color: darkgray;
+  }
